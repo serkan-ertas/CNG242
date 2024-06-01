@@ -5,7 +5,6 @@ the array on the right indicates how many children the departments have, respect
 the tree is like this:
 
 ```md
-packages/button
 	A
 	├── B
 	│   └── C
