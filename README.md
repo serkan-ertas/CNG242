@@ -40,20 +40,18 @@ three questions
 ### Practical Assignment 1 - Haskell
 - it was hard, do not use gpt.
 - try to solve your problem by dividing the main problem into smaller problems.
-- think recursively.
-- do not try a `big bang`.
+- do not try a big bang.
 
 ### Practical Assignment 2 - C++
 - learn how to use `virtual`.
 - for each class, check your `big three`.
-- do not hesitate to `add some helper functions` to reach subclasses since you will not be allowed to use dynamic casting.
+- do not hesitate to `add some helper functions`.
 
 
 ### Practical Assignment 3 - C++
-- think in object-oriented way.
 - do not ever try a big bang.
-- use `vectors` and `strings` libraries. it is C++, not C anymore.
-- search what the `clone` function does in Java, and C++ equivalence. it will help in the big three.
+- use `vectors` and `strings` libraries.
+- learn what the `clone` function does in Java, and C++ equivalence.
 
 
 
