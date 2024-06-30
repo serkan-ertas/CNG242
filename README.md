@@ -28,8 +28,8 @@ probably there will be 3 questions.
 - they did not ask the big three (copy c., operator=, destructor).
 
 ### Quiz 3 - C++
-- they did ask `the big three` (copy c., operator=, destructor), `subclasses`, and `virtual`.
-- they did not ask, but learn `static members` too.
+- they did ask for `the big three` (copy c., operator=, destructor), `subclasses`, and `virtual`.
+- they did not ask, but I recommend you to learn `static members` too.
 
 ### Quiz 4 - Prolog
 three questions
