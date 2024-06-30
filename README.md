@@ -2,7 +2,7 @@
 METU NCC CNG 242 Practical Assignments and Quizzes
 
 ### Midterm 1:
-- static/dynamic binding (this is actually known as **dynamic scoping** when you want to search)
+- static/dynamic binding (this is actually known as **dynamic scoping** if you want to search)
 - normal order / eager / lazy evaluation (learn lazy eval from your **hoca**, in slides or internet, you cannot find how it works)
 - copy semantics
 - variable lifetime
