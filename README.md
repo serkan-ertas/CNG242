@@ -3,55 +3,51 @@ METU NCC CNG 242 Practical Assignments and Quizzes
 
 ### Midterm 1:
 - static/dynamic binding (this is actually known as **dynamic scoping** if you want to search)
-- normal order / eager / lazy evaluation (learn lazy eval from your **hoca**)
+- evaluations
 - copy semantics
 - variable lifetime
 - environment (hiding etc.)
 - the first topics!! (enum, the cardinality of the set, primitive-composite)
-- haskell (given some functions, they want you to find the outputs)
+- haskell
 
 *there was no question about static/dynamic type checking, type equivalence, expression-command, abstraction.*
 
 *still, it does not mean that you do not need to study and learn them.*
 
-*we are here to **learn**, not just to pass the course.*
 
 
 ### Quiz 1 - Haskell
-probably there will be 3 questions.
+three questions:
 
-- the first and second are about doing the basic things, like reversing or doing some calculations.
-- the third one is more about real life. you need to know how to define a data type.
+- the first and second are so basic
+- the third one is about defining a data type
 
 
 ### Quiz 2 - C++
-- they did not ask the big three (copy c., operator=, destructor).
+- they did not ask the big three
 
 ### Quiz 3 - C++
-- they did ask for `the big three` (copy c., operator=, destructor), `subclasses`, and `virtual`.
-- they did not ask, but I recommend you to learn `static members` too.
+- they did ask for `the big three`, `subclasses`, and `virtual`
+- learn `static members` too
 
 ### Quiz 4 - Prolog
-three questions
-- basic mathematical functions like `if X > 5, return X^7`, `if X < 0, return X^2`, `otherwise return 3` (used random numbers here).
-- implement the geometric sequence, where the 1st element is `a`, 2nd is `a*r`, 3rd is `a*r*r`.
-- there are two tables, and they are connected with an `Id`. write functions by connecting those tables with a common `Id`.
+three questions:
+- basic mathematical functions
+- geometric sequence
+- there are two tables, and they are connected with an `Id`. write functions by connecting those tables with a common `Id`
 
 ### Practical Assignment 1 - Haskell
-- it was hard, do not use gpt.
-- try to solve your problem by dividing the main problem into smaller problems.
-- do not try a big bang.
+- try to solve your problem by dividing the main problem into smaller problems
 
 ### Practical Assignment 2 - C++
-- learn how to use `virtual`.
-- for each class, check your `big three`.
-- do not hesitate to `add some helper functions`.
+- learn how to use `virtual`
+- for each class, check your `big three`
 
 
 ### Practical Assignment 3 - C++
-- do not ever try a big bang.
-- use `vectors` and `strings` libraries.
-- learn what the `clone` function does in Java, and C++ equivalence.
+- use `vectors` and `strings` libraries
+- it is C++ now, not C
+- learn what the `clone` function does in Java, and C++ equivalence
 
 
 
